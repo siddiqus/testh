@@ -1,0 +1,3 @@
+[submodule "ebi-tutorial"]
+	path = ebi-tutorial
+	url = http://github.com/smc-ssiddiqui/ebi-tutorial
